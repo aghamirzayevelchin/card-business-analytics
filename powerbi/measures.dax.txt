@@ -19,3 +19,20 @@ CALCULATE(SUM(scheme_invoices[amount_azn]), scheme_invoices[status] = "Disputed"
 
 Approved Invoices (AZN) =
 CALCULATE(SUM(scheme_invoices[amount_azn]), scheme_invoices[status] = "Approved")
+-- Additional Measures
+
+Interchange Revenue = SUM(revenue_cost_monthly[interchange_revenue])
+Card Fee Revenue = SUM(revenue_cost_monthly[card_fee_revenue])
+FX Markup Revenue = SUM(revenue_cost_monthly[fx_markup_revenue])
+
+Processing Cost = SUM(revenue_cost_monthly[processing_cost])
+Scheme Fees Cost = SUM(revenue_cost_monthly[scheme_fees_cost])
+Fraud Loss Cost = SUM(revenue_cost_monthly[fraud_loss_cost])
+Issuance Cost = SUM(revenue_cost_monthly[issuance_cost])
+
+Top Fee Type (Invoice) =
+TOPN(
+  1,
+  SUMMARIZE(scheme_invoices, scheme_invoices[fee_type], "Amt", SUM(scheme_invoices[amount_azn])),
+  [Amt], DESC
+)
