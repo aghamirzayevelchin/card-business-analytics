@@ -1,0 +1,121 @@
+invoice_id,month,scheme,fee_type,currency,amount_fc,fx_rate,amount_azn,status
+50001,2025-01,Visa,Scheme Fees,USD,32278.34,1.7,54873.18,Received
+50002,2025-01,Visa,Assessment,USD,13600.43,1.7,23120.74,Disputed
+50003,2025-01,Visa,Processing,EUR,61118.09,1.85,113068.46,Received
+50004,2025-01,Visa,Chargeback,USD,7957.56,1.7,13527.85,Received
+50005,2025-01,Visa,Network,USD,13403.37,1.7,22785.73,Received
+50006,2025-01,Mastercard,Scheme Fees,USD,35634.59,1.7,60578.81,Approved
+50007,2025-01,Mastercard,Assessment,USD,14646.62,1.7,24899.26,Received
+50008,2025-01,Mastercard,Processing,USD,24867.67,1.7,42275.04,Received
+50009,2025-01,Mastercard,Chargeback,USD,6987.03,1.7,11877.94,Approved
+50010,2025-01,Mastercard,Network,USD,7017.08,1.7,11929.04,Received
+50011,2025-02,Visa,Scheme Fees,USD,52995.22,1.7,90091.87,Received
+50012,2025-02,Visa,Assessment,USD,12866.85,1.7,21873.64,Received
+50013,2025-02,Visa,Processing,EUR,51797.27,1.85,95824.94,Approved
+50014,2025-02,Visa,Chargeback,USD,6959.03,1.7,11830.35,Approved
+50015,2025-02,Visa,Network,USD,11664.82,1.7,19830.19,Received
+50016,2025-02,Mastercard,Scheme Fees,USD,37459.59,1.7,63681.3,Approved
+50017,2025-02,Mastercard,Assessment,EUR,13856.6,1.85,25634.72,Received
+50018,2025-02,Mastercard,Processing,USD,44500.92,1.7,75651.56,Approved
+50019,2025-02,Mastercard,Chargeback,USD,6354.38,1.7,10802.44,Received
+50020,2025-02,Mastercard,Network,EUR,5394.94,1.85,9980.63,Received
+50021,2025-03,Visa,Scheme Fees,USD,39339.49,1.7,66877.14,Approved
+50022,2025-03,Visa,Assessment,USD,10839.48,1.7,18427.12,Disputed
+50023,2025-03,Visa,Processing,EUR,42844.76,1.85,79262.81,Disputed
+50024,2025-03,Visa,Chargeback,USD,5140.28,1.7,8738.48,Received
+50025,2025-03,Visa,Network,USD,9422.27,1.7,16017.86,Approved
+50026,2025-03,Mastercard,Scheme Fees,USD,47664.91,1.7,81030.34,Received
+50027,2025-03,Mastercard,Assessment,USD,11673.29,1.7,19844.59,Received
+50028,2025-03,Mastercard,Processing,USD,42699.24,1.7,72588.71,Received
+50029,2025-03,Mastercard,Chargeback,USD,5131.58,1.7,8723.69,Received
+50030,2025-03,Mastercard,Network,USD,7365.49,1.7,12521.33,Approved
+50031,2025-04,Visa,Scheme Fees,USD,42255.7,1.7,71834.69,Received
+50032,2025-04,Visa,Assessment,USD,4835.99,1.7,8221.19,Received
+50033,2025-04,Visa,Processing,USD,39153.57,1.7,66561.06,Received
+50034,2025-04,Visa,Chargeback,USD,7101.31,1.7,12072.22,Received
+50035,2025-04,Visa,Network,USD,8427.55,1.7,14326.84,Received
+50036,2025-04,Mastercard,Scheme Fees,EUR,55496.59,1.85,102668.7,Received
+50037,2025-04,Mastercard,Assessment,USD,5207.99,1.7,8853.59,Approved
+50038,2025-04,Mastercard,Processing,USD,43982.64,1.7,74770.48,Approved
+50039,2025-04,Mastercard,Chargeback,EUR,6511.41,1.85,12046.11,Received
+50040,2025-04,Mastercard,Network,USD,6223.53,1.7,10580.0,Received
+50041,2025-05,Visa,Scheme Fees,EUR,39205.58,1.85,72530.33,Approved
+50042,2025-05,Visa,Assessment,EUR,7129.91,1.85,13190.33,Received
+50043,2025-05,Visa,Processing,USD,50285.32,1.7,85485.04,Received
+50044,2025-05,Visa,Chargeback,USD,11337.47,1.7,19273.69,Received
+50045,2025-05,Visa,Network,USD,9165.92,1.7,15582.06,Received
+50046,2025-05,Mastercard,Scheme Fees,USD,32008.98,1.7,54415.26,Received
+50047,2025-05,Mastercard,Assessment,USD,7678.36,1.7,13053.22,Received
+50048,2025-05,Mastercard,Processing,USD,45549.13,1.7,77433.53,Received
+50049,2025-05,Mastercard,Chargeback,USD,5308.48,1.7,9024.41,Received
+50050,2025-05,Mastercard,Network,USD,10284.23,1.7,17483.19,Received
+50051,2025-06,Visa,Scheme Fees,USD,47204.45,1.7,80247.57,Received
+50052,2025-06,Visa,Assessment,USD,7759.96,1.7,13191.93,Received
+50053,2025-06,Visa,Processing,USD,37583.04,1.7,63891.17,Received
+50054,2025-06,Visa,Chargeback,USD,6016.89,1.7,10228.72,Received
+50055,2025-06,Visa,Network,USD,6811.56,1.7,11579.66,Disputed
+50056,2025-06,Mastercard,Scheme Fees,EUR,40671.75,1.85,75242.74,Received
+50057,2025-06,Mastercard,Assessment,EUR,8356.88,1.85,15460.23,Received
+50058,2025-06,Mastercard,Processing,USD,41664.48,1.7,70829.62,Received
+50059,2025-06,Mastercard,Chargeback,EUR,2724.25,1.85,5039.87,Received
+50060,2025-06,Mastercard,Network,USD,9110.9,1.7,15488.53,Received
+50061,2025-07,Visa,Scheme Fees,USD,49967.59,1.7,84944.91,Received
+50062,2025-07,Visa,Assessment,USD,9085.05,1.7,15444.59,Received
+50063,2025-07,Visa,Processing,EUR,50084.47,1.85,92656.26,Received
+50064,2025-07,Visa,Chargeback,EUR,5726.31,1.85,10593.66,Received
+50065,2025-07,Visa,Network,EUR,11643.77,1.85,21540.98,Received
+50066,2025-07,Mastercard,Scheme Fees,USD,50026.64,1.7,85045.28,Received
+50067,2025-07,Mastercard,Assessment,USD,9783.9,1.7,16632.64,Received
+50068,2025-07,Mastercard,Processing,USD,53771.92,1.7,91412.26,Received
+50069,2025-07,Mastercard,Chargeback,EUR,8111.81,1.85,15006.84,Received
+50070,2025-07,Mastercard,Network,USD,8841.16,1.7,15029.97,Received
+50071,2025-08,Visa,Scheme Fees,EUR,43075.3,1.85,79689.3,Received
+50072,2025-08,Visa,Assessment,USD,8249.19,1.7,14023.62,Received
+50073,2025-08,Visa,Processing,USD,35524.95,1.7,60392.42,Received
+50074,2025-08,Visa,Chargeback,USD,4279.87,1.7,7275.78,Received
+50075,2025-08,Visa,Network,EUR,9513.22,1.85,17599.46,Approved
+50076,2025-08,Mastercard,Scheme Fees,USD,28430.67,1.7,48332.15,Received
+50077,2025-08,Mastercard,Assessment,EUR,8883.74,1.85,16434.92,Received
+50078,2025-08,Mastercard,Processing,EUR,58090.66,1.85,107467.73,Received
+50079,2025-08,Mastercard,Chargeback,USD,5268.66,1.7,8956.72,Approved
+50080,2025-08,Mastercard,Network,USD,9820.82,1.7,16695.4,Disputed
+50081,2025-09,Visa,Scheme Fees,EUR,49799.27,1.85,92128.65,Approved
+50082,2025-09,Visa,Assessment,EUR,8062.43,1.85,14915.49,Received
+50083,2025-09,Visa,Processing,USD,44152.91,1.7,75059.95,Received
+50084,2025-09,Visa,Chargeback,EUR,6662.04,1.85,12324.78,Received
+50085,2025-09,Visa,Network,USD,7072.37,1.7,12023.02,Received
+50086,2025-09,Mastercard,Scheme Fees,EUR,48029.61,1.85,88854.78,Received
+50087,2025-09,Mastercard,Assessment,USD,8682.61,1.7,14760.44,Received
+50088,2025-09,Mastercard,Processing,USD,66202.39,1.7,112544.06,Approved
+50089,2025-09,Mastercard,Chargeback,USD,5691.29,1.7,9675.19,Disputed
+50090,2025-09,Mastercard,Network,USD,10479.49,1.7,17815.13,Received
+50091,2025-10,Visa,Scheme Fees,EUR,56497.77,1.85,104520.88,Received
+50092,2025-10,Visa,Assessment,USD,10974.63,1.7,18656.87,Received
+50093,2025-10,Visa,Processing,USD,37718.11,1.7,64120.78,Received
+50094,2025-10,Visa,Chargeback,USD,9557.03,1.7,16246.96,Received
+50095,2025-10,Visa,Network,EUR,11019.83,1.85,20386.69,Received
+50096,2025-10,Mastercard,Scheme Fees,EUR,47705.53,1.85,88255.24,Received
+50097,2025-10,Mastercard,Assessment,USD,11818.83,1.7,20092.02,Approved
+50098,2025-10,Mastercard,Processing,EUR,49296.7,1.85,91198.89,Received
+50099,2025-10,Mastercard,Chargeback,USD,7693.53,1.7,13079.01,Received
+50100,2025-10,Mastercard,Network,USD,9753.84,1.7,16581.52,Received
+50101,2025-11,Visa,Scheme Fees,EUR,38984.63,1.85,72121.56,Received
+50102,2025-11,Visa,Assessment,USD,9517.35,1.7,16179.49,Received
+50103,2025-11,Visa,Processing,USD,56063.92,1.7,95308.67,Received
+50104,2025-11,Visa,Chargeback,EUR,6326.78,1.85,11704.55,Received
+50105,2025-11,Visa,Network,EUR,7112.54,1.85,13158.19,Received
+50106,2025-11,Mastercard,Scheme Fees,USD,44757.4,1.7,76087.58,Approved
+50107,2025-11,Mastercard,Assessment,USD,10249.45,1.7,17424.07,Received
+50108,2025-11,Mastercard,Processing,EUR,41099.16,1.85,76033.44,Received
+50109,2025-11,Mastercard,Chargeback,USD,8658.36,1.7,14719.21,Received
+50110,2025-11,Mastercard,Network,USD,8334.98,1.7,14169.47,Disputed
+50111,2025-12,Visa,Scheme Fees,USD,40798.9,1.7,69358.13,Received
+50112,2025-12,Visa,Assessment,USD,7007.89,1.7,11913.42,Received
+50113,2025-12,Visa,Processing,USD,55421.72,1.7,94216.93,Received
+50114,2025-12,Visa,Chargeback,USD,7368.12,1.7,12525.8,Received
+50115,2025-12,Visa,Network,USD,10379.13,1.7,17644.52,Received
+50116,2025-12,Mastercard,Scheme Fees,USD,36373.87,1.7,61835.58,Approved
+50117,2025-12,Mastercard,Assessment,USD,7546.96,1.7,12829.83,Received
+50118,2025-12,Mastercard,Processing,USD,60230.84,1.7,102392.42,Received
+50119,2025-12,Mastercard,Chargeback,USD,7410.46,1.7,12597.79,Received
+50120,2025-12,Mastercard,Network,EUR,11306.4,1.85,20916.84,Received
