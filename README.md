@@ -1,4 +1,4 @@
-# Card Business Analytics Portfolio (Unibank-style Case)
+# Card Business Analytics Portfolio 
 
 ## What this project demonstrates (aligned to Card Business Analyst role)
 - Issuance (emission) revenue & cost analysis by product (P&L)
