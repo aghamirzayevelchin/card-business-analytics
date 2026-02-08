@@ -1,3 +1,11 @@
+## What this project demonstrates (aligned to Card Business Analyst role)
+- Issuance (emission) revenue & cost analysis by product (P&L)
+- Turnover trend analysis and channel mix optimization (POS / E-com / ATM / P2P)
+- Category (MCC) opportunity discovery for campaigns/partners
+- Payment scheme invoice control (drivers, disputes, anomaly checks)
+- Power BI-ready model + DAX measures for regular reporting
+
+
 # Card Business Analytics Portfolio (Unibank-style Case)
 
 This repository is a simulated end-to-end **Card Business Analytics** case aligned with typical responsibilities in card issuing/merchant acquiring analytics:
