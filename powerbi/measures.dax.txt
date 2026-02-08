@@ -1,0 +1,21 @@
+-- DAX Measures (Power BI)
+
+Total Turnover (AZN) = SUM(transactions_buckets[amount_azn])
+Total Transactions = SUM(transactions_buckets[tx_count])
+
+Total Revenue (AZN) = SUM(revenue_cost_monthly[total_revenue])
+Total Cost (AZN) = SUM(revenue_cost_monthly[total_cost])
+Profit (AZN) = SUM(revenue_cost_monthly[profit])
+Profit Margin = DIVIDE([Profit (AZN)], [Total Revenue (AZN)])
+
+Foreign Turnover (AZN) =
+CALCULATE([Total Turnover (AZN)], transactions_buckets[country] <> "AZ")
+
+Foreign Share =
+DIVIDE([Foreign Turnover (AZN)], [Total Turnover (AZN)])
+
+Disputed Invoices (AZN) =
+CALCULATE(SUM(scheme_invoices[amount_azn]), scheme_invoices[status] = "Disputed")
+
+Approved Invoices (AZN) =
+CALCULATE(SUM(scheme_invoices[amount_azn]), scheme_invoices[status] = "Approved")
